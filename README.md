@@ -8,8 +8,6 @@ Automatic importing & exporting of Vue components within the components director
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [How to import](#how-to-import)
-
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
@@ -19,18 +17,8 @@ Make sure you have installed all of the following prerequisites on your developm
 
 ## Installation
 
-Clone the repository and change the directory
-
+Install the package
 ```bash
-$ git clone https://git.funda.nl/scm/frn/ui-vue.git && cd ui-vue
+$ npm i auto-export-components
 ```
 
-Install dependencies using `npm`. The autoExport script inside of the package.json will start, because it runs preinstall, and generate the index file.
-```
-$ npm install
-```
-
-Manual trigger of auto export
-```
-$ npm run autoExport
-```
