@@ -1,0 +1,12 @@
+{
+  "name": "auto-export-components",
+  "version": "1.0.0",
+  "description": "Automaticall export your components to an index file",
+  "main": "index.js",
+  "repository": "https://github.com/larsdouweschuitema/auto-export-components.git",
+  "author": "Lars Schuitema <larsschuitema@funda.nl>",
+  "license": "MIT",
+  "bin": {
+    "auto-export-components": "./cli.js"
+  }
+}
