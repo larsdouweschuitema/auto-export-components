@@ -8,6 +8,7 @@ Automatic importing & exporting of Vue components within the components director
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Usage](#usage)
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
@@ -20,5 +21,10 @@ Make sure you have installed all of the following prerequisites on your developm
 Install the package
 ```bash
 $ npm i auto-export-components
+```
+
+## Usage
+```bash
+$ npx auto-export-components
 ```
 
