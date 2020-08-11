@@ -10,6 +10,8 @@ Can be used with Vue, React, Angular etc.
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Licenses](#licenses)
+- [Contributing](#contributing)
 
 ## Prerequisites
 Make sure you have installed all of the following prerequisites on your development machine:
@@ -28,4 +30,12 @@ $ npm i auto-export-components
 ```bash
 $ npx auto-export-components
 ```
+
+## Contributing
+
+To contribute to this repository see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details
+
+## Licenses
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
