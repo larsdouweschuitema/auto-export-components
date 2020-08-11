@@ -2,7 +2,8 @@
   <h1>Auto Export Components</h1>
 </div>
 
-Automatic importing & exporting of Vue components within the components directory.
+Automatic importing & exporting of JavaScript components within the components directory.
+Can be used with Vue, React, Angular etc.
 
 ## Table of contents
 
